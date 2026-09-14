@@ -17,7 +17,7 @@ Ingeniero en Informática con más de 3 años de experiencia en desarrollo Back-
 ### 💼 Experiencia Destacada
 
 - **Back End Developer y Database Developer** @ *SODIG S.A.* (09/2023 - Presente)[cite: 1]
-  - Arquitectura Back-End para la plataforma E-commerce *Shopby* (NestJS / Symfony)[cite: 1].
+  - Arquitectura Back-End para la plataforma E-commerce **[Shopby | Compras en línea seguras]** (NestJS / Symfony)[cite: 1].
   - Modelado y optimización de datos para *Medilux App*[cite: 1].
   - Integración de versionamiento con Git y despliegue contenedorizado con Docker[cite: 1].
 
