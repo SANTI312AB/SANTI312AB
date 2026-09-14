@@ -17,33 +17,39 @@ Ingeniero en Informática con más de 3 años de experiencia en desarrollo Back-
 ### 💼 Experiencia Destacada
 
 - **Back End Developer y Database Developer** @ *SODIG S.A.* (09/2023 - Presente)[cite: 1]
-  - Arquitectura Back-End para la plataforma E-commerce **https://shopby.com.ec/** (NestJS / Symfony).
-  - Modelado y optimización de datos para **https://play.google.com/store/apps/details?id=com.medilux&hl=es_EC**.
+  - Arquitectura Back-End para la plataforma E-commerce **[Shopby](https://shopby.com.ec/)** (NestJS / Symfony)[cite: 1].
+    
+    <img src="URL_O_RUTA_DE_IMAGEN_SHOPBY.jpg" alt="Shopby E-Commerce" width="600"/>
+
+  - Modelado y optimización de datos para **[Medilux App](https://play.google.com/store/apps/details?id=com.medilux&hl=es_EC)**[cite: 1].
+    
+    <img src="URL_O_RUTA_DE_IMAGEN_MEDILUX.jpg" alt="Medilux App" width="300"/>
+
   - Integración de versionamiento con Git y despliegue contenedorizado con Docker[cite: 1].
 
-- **Desarrollador Autónomo** (2022 - 2023)
-  - *Clínica Odontológica AR Dental:* Aplicación de escritorio personalizada con C# y SQLite.
-  - *American Parts:* Landing pages optimizadas en WordPress.
-  - *Tv Net Lago Agrio:* Automatización de procesos e integración de mensajería comercial.
+- **Desarrollador Autónomo** (2022 - 2023)[cite: 1]
+  - *Clínica Odontológica AR Dental:* Aplicación de escritorio personalizada con C# y SQLite[cite: 1].
+  - *American Parts:* Landing pages optimizadas en WordPress[cite: 1].
+  - *Tv Net Lago Agrio:* Automatización de procesos e integración de mensajería comercial[cite: 1].
 
-- **Ingeniero de Datos** @ *Ministerio de Salud - Ecuador* (04/2022 - 07/2022)
-  - Diseño e implementación de Data Warehouse en Oracle y pipelines ETL con Pentaho Data Analytics.
+- **Ingeniero de Datos** @ *Ministerio de Salud - Ecuador* (04/2022 - 07/2022)[cite: 1]
+  - Diseño e implementación de Data Warehouse en Oracle y pipelines ETL con Pentaho Data Analytics[cite: 1].
 
-- **Desarrollador Web** @ *JGCOMPUTERS* (06/2021 - 11/2021)
-  - Plataforma web de medicina ocupacional con PHP (Symfony) y SQL Server.
+- **Desarrollador Web** @ *JGCOMPUTERS* (06/2021 - 11/2021)[cite: 1]
+  - Plataforma web de medicina ocupacional con PHP (Symfony) y SQL Server[cite: 1].
 
 ---
 
 ### 🎓 Educación
 
 - **Ingeniería en Informática** (Ciencias de la Computación)  
-  *Universidad Politécnica Estatal del Carchi* (2016 - 2021)
+  *Universidad Politécnica Estatal del Carchi* (2016 - 2021)[cite: 1]
 
 ---
 
 ### 📫 Contacto y Redes
 
-- 📍 Quito, Ecuador
+- 📍 Quito, Ecuador[cite: 1]
 - 📧 **Correo:** santi312b@outlook.com[cite: 1]
 - 💼 **LinkedIn:** [linkedin.com/in/santiago-suarez-15852b20a](https://www.linkedin.com/in/santiago-suarez-15852b20a)[cite: 1]
 - 🐙 **GitHub:** [github.com/SANTI312AB](https://github.com/SANTI312AB)[cite: 1]
