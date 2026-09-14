@@ -19,11 +19,11 @@ Ingeniero en Informática con más de 3 años de experiencia en desarrollo Back-
 - **Back End Developer y Database Developer** @ *SODIG S.A.* (09/2023 - Presente)[cite: 1]
   - Arquitectura Back-End para la plataforma E-commerce **[Shopby](https://shopby.com.ec/)** (NestJS / Symfony)[cite: 1].
     
-    <img src="URL_O_RUTA_DE_IMAGEN_SHOPBY.jpg" alt="Shopby E-Commerce" width="600"/>
+    <img src="" alt="Shopby E-Commerce" width="600"/>
 
   - Modelado y optimización de datos para **[Medilux App](https://play.google.com/store/apps/details?id=com.medilux&hl=es_EC)**[cite: 1].
     
-    <img src="URL_O_RUTA_DE_IMAGEN_MEDILUX.jpg" alt="Medilux App" width="300"/>
+    <img src="https://play-lh.googleusercontent.com/99SPPmLHI4pzxDVi9217JGSgJi7vIVqFrxyYswerw87rdQWih4IUtMaU-sZwSY0snIYt--TY8Vs4DOz5eQdk=w5120-h2880-rw" alt="Medilux App" width="300"/>
 
   - Integración de versionamiento con Git y despliegue contenedorizado con Docker[cite: 1].
 
